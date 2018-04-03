@@ -1,0 +1,9 @@
+{
+  "timeZone": "Asia/Dubai",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "executionApi": {
+    "access": "MYSELF"
+  }
+}
