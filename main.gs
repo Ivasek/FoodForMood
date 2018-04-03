@@ -24,7 +24,7 @@ function fillTable(dishes){
     .clearFormats()
     .clearNotes();
   
-  var hungryWorkers = ["Дмитрий Горбунков", "Максим Носков", "Илья Кунафин", "Иван Матюнин", "Ольга Кононова"];
+  var hungryWorkers = ["Employee1", "Employee2"];
   var totalWidth = hungryWorkers.length + 4;
   
   createColumns(sheet, hungryWorkers);
